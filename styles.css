@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+    font-size: 2rem;
+    text-align: right;
+    border: 1px solid blue;
+    padding:20px 40px;
+}
+.mycontainer{
+    width: 500px;
+    height: 300px;
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+button{
+    padding:20px 30px 20px 40px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
